@@ -43,6 +43,3 @@ fetch(api_url, requestOptions)
         <pre>{{ paste?.body }}</pre>
     </article>
 </template>
-
-
-<style scoped></style>
