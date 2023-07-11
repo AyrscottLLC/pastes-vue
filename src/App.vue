@@ -14,7 +14,7 @@
             <RouterLink to="/about">About</RouterLink>
           </li>
           <li>
-            <RouterLink to="/p/63de90ba-3d13-45e6-98f9-8ec4ae8638fd">A Paste</RouterLink>
+            <RouterLink to="/p/63de90ba-3d13-45e6-98f9-8ec4ae8638fd">Sample</RouterLink>
           </li>
         </ul>
       </nav>
