@@ -26,6 +26,7 @@ fetch(api_url, requestOptions)
         paste.value = data.data
     }).catch((error) => {
         console.error('Error:', error);
+        window.location.href = '/'
     })
 
 
