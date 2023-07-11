@@ -14,7 +14,7 @@
             <p>The full source code for this project is available on GitHub:</p>
             <ul>
                 <li>
-                    Vue 3 Front-End for GitHub Pages
+                    <a href="https://github.com/AyrscottLLC/pastes-vue">Vue 3 Front-End for GitHub Pages</a>
                 </li>
                 <li>
                     <a href="https://github.com/AyrscottLLC/pastes-supabase">Deno Edge Functions Back-End for
