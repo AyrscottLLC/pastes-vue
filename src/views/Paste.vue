@@ -10,7 +10,9 @@ const api_url = 'https://szsaextmvibiosujacix.supabase.co/functions/v1/get_paste
 const requestOptions = {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ uuid: id })
+    body: JSON.stringify({ uuid: id }),
+    id: id,
+    key: id
 };
 
 fetch(api_url, requestOptions)
